@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">A self taught developer from India.</h3>
+<h1>Hi 👋, I'm Rishabh</h1>
+<h3>A self taught developer from India.</h3>
 
 - 🌱 I’m currently learning **React.js & Data Structures and Algo.**
 
@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhbizzle&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rishabhbizzle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhbizzle&show_icons=true&theme=tokyonight&locale=en" alt="rishabhbizzle" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhbizzle&show_icons=true&theme=tokyonight&locale=en" alt="rishabhbizzle" /></p>
 
