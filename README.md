@@ -6,10 +6,7 @@ Full Stack Developer
 
 Currently working as a Full-Stack Developer (Remote) for a startup. I am passionate about building excellent software that improves the lives of those around me. and I'm focused on making open-source contributions while learning & exploring new technologies as well. My dream company is Spotify. In freetime I learn Japanese language and listen to drake & bieber's music a lot xD
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://bizzxle.netlify.app/)
 * ✉️  You can contact me at [rishabhbizzle@gmail.com](mailto:rishabhbizzle@gmail.com)
-* 🚀  I'm currently working on [SpotAnalytics 2.0](http://github.com/rishabhbizzle/SpotAnalytics-V2)
 
 ### Skills
 
