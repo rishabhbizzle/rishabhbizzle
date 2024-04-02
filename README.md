@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishabh
 ====================================================================================================================================
 
-Full Stack Developer
+Software Developer
 --------------------
 
-Currently working as a Full-Stack Developer (Remote) for a startup. I am passionate about building excellent software that improves the lives of those around me. and I'm focused on making open-source contributions while learning & exploring new technologies as well. My dream company is Spotify. In freetime I learn Japanese language and listen to drake & bieber's music a lot xD
+I am currently working as a Full-Stack Developer (Remote) for a startup. I am passionate about building excellent software that improves the lives of those around me. and I'm focused on making open-source contributions while learning & exploring new technologies as well. My dream company is Spotify. In free time I learn the Japanese language and listen to Drake & Bieber's music a lot xD
 
 * ✉️  You can contact me at [rishabhbizzle@gmail.com](mailto:rishabhbizzle@gmail.com)
 
