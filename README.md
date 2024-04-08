@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------------
 
-I am currently working as a Full-Stack Developer (Remote) for a startup. I am passionate about building excellent software that improves the lives of those around me. and I'm focused on making open-source contributions while learning & exploring new technologies as well. My dream company is Spotify. In free time I learn the Japanese language and listen to Drake & Bieber's music a lot xD
+I am currently working as a Full-Stack Developer (Remote) for a startup. I am passionate about building excellent software that improves the lives of those around me. and I'm focused on making open-source contributions while learning & exploring new technologies as well. My dream company is Spotify. In free time I learn the Japanese language and listen to Drake & Bieber's music a lot
 
 * ✉️  You can contact me at [rishabhbizzle@gmail.com](mailto:rishabhbizzle@gmail.com)
 
