@@ -6,6 +6,7 @@ Software Developer
 
 I currently work as a Full-Stack Developer (Remote) for a startup. I am passionate about building excellent software that improves the lives of those around me. and I'm focused on making open-source contributions while learning & exploring new technologies as well. My dream company is Spotify.
 * ✉️  You can contact me at [rishabhbizzle@gmail.com](mailto:rishabhbizzle@gmail.com).
+* Website: [bizzxle.vercel.app](https://bizzxle.vercel.app/)
 
 ### Skills
 
