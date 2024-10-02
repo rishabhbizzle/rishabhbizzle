@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------------
 
-I am passionate about building excellent software that improves the lives of those around me. I'm focused on making open-source contributions while learning & exploring new technologies as well. My dream company is Spotify.
+I am passionate about building excellent software that improves the lives of those around me. I'm focused on making open-source contributions while learning and exploring new technologies. My dream company is Spotify.
 * ✉️ You can contact me at [rishabhbizzle@gmail.com](mailto:rishabhbizzle@gmail.com).
 
 ### Skills
